@@ -152,7 +152,7 @@ Task 2: Submit your first Python Code
         $ git config user.email "MY@EMAIL"
 
     Replace ``FIRST`` and ``LAST`` with your first name and last name as you
-    would like them to appear on your contributions. Replay ``MY@EMAIL`` with
+    would like them to appear on your contributions. Replace ``MY@EMAIL`` with
     the same e-mail address you registered with `GitHub`_. This should be your
     CUNY SPS e-mail address.
 
