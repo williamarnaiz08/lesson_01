@@ -148,8 +148,8 @@ Task 2: Submit your first Python Code
 
     .. code-block:: console
 
-        $ git config user.name "FIRST LAST"
-        $ git config user.email "MY@EMAIL"
+        $ git config --global user.name "FIRST LAST"
+        $ git config --global user.email "MY@EMAIL"
 
     Replace ``FIRST`` and ``LAST`` with your first name and last name as you
     would like them to appear on your contributions. Replace ``MY@EMAIL`` with
